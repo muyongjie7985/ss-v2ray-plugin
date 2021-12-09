@@ -4,7 +4,7 @@
 
 > 2. Android 安装 [Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) 和 [v2ray-plugin-android](https://github.com/shadowsocks/v2ray-plugin-android)。
 
-![](https://raw.githubusercontent.com/xiaokaixuan/ss-v2ray-plugin/master/android.png)
+![](https://raw.githubusercontent.com/muyongjie7985/ss-v2ray-plugin/master/android.png)
 
 > 3. 部署到VPS时，域名变量`DOMAIN`和映射`/root/.acme.sh`可开启TLS。
 > ```sh
